@@ -1,0 +1,54 @@
+/* Write your CSS here */
+
+.app-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 80vh;
+  width: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 40px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.heading {
+  font-size: 25x;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.click-button {
+  height: 22px;
+  width: 150px;
+  color: #dd1264;
+  border-radius: 6px;
+  border-width: 0px;
+  margin: 10px;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+
+.button-container {
+  display: flex;
+}
+.name {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.cont-para {
+  height: 80px;
+  width: 150px;
+  background-color: #fddddb;
+  border-radius: 8px;
+  border-width: 0px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  padding-top: 30px;
+}
